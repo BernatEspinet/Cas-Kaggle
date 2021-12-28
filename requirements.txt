@@ -1,0 +1,10 @@
+Per executar el projecte és necessiten les llibreries següents:
+  -Numpy
+  -Pandas
+  -Matplotlib
+  -Sklearn
+  -Seaborn
+  -Scipy.stats
+  -Warnings
+Per executar la demo, primer hem de córrer el fitxer principal per crear l'arxiu .db
+Aquest arxiu és massa gran per penjar'l al GitHub.
