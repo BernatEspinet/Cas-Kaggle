@@ -11,7 +11,7 @@ Tenim 17996 dades amb 17 atributs. Un 11% d'ells és categòric i els altres só
 ### Objectius del dataset
 Volem crear un classificador bo per determinar el gènere musical d'una cançó donades les seves característiques.
 ## Experiments
-Primer vàrem aplicar un preprocessat bàsic i vam generar els models, aplicant hyperparameter tunning pels millors. Després vam tornar al preprocessament per trobar quina configuració era la òptima per la nostra base de dades.
+Primer vàrem aplicar un preprocessat bàsic i vam generar els models i després, vam aplicar hyperparameter tunning pels millors models per veure si érem capaços de millorar el accuracy. Després vam tornar al preprocessament per trobar quina configuració era l'òptima per la nostra base de dades i vam tornar a crear els models.
 ### Preprocessat
 Per preparar el dataset, hem codificat el nom de l'artista, eliminat el nom de la cançó, omplert els NA amb -1 i estandarditzant les dades. Amb aquest preprocessament és amb el que hem aconseguit els millors resultats.
 ### Model
