@@ -1,5 +1,5 @@
 # Cas-Kaggle
-Anàlisi exhaustiu de dades, amb el dataset :https://www.kaggle.com/purumalgi/music-genre-classification
+Anàlisi de dades exhaustiu, amb el dataset :https://www.kaggle.com/purumalgi/music-genre-classification
 
 # Pràctica Kaggle APC UAB 2021-22
 ### Nom: Bernat Espinet Torrescassana
