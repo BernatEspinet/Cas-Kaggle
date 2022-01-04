@@ -27,7 +27,7 @@ Per preparar el dataset, hem codificat el nom de l'artista, eliminat el nom de l
 | XGBClassifier | colsample_bytree= 0.8011935532275019, gamma= 0.0967861901103601, learning_rate= 0.06881623529678811, max_depth= 3, n_estimators= 114, objective= 'o', subsample= 0.8160718933070602 | 69.3% | 7.347s |
 | Stacked | Model creat a partir del OneVsOneClassifier, RandomForestClassifier, KNeighborsClassifier i XGBClassifier| 55.3% | 31.735s |
 ## Demo
-Per tal de fer una prova, primer hem d'executar el codi principal per generar el .db i després l'arxiu Demo.ipybn.
+Per tal de fer una prova, primer hem d'executar el codi principal per generar el .db i després l'arxiu Demo.ipynb.
 Aquest arxiu ens permet classificar noves cançons que no tenen un gènere associat.
 ## Conclusions
 El millor model basant-nos amb l'accuracy és el XGBClassifier però, un cop fem la Cross Validation, ens adonem que el Stacked és millor, ja que no comet overfitting.
