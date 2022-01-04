@@ -33,4 +33,4 @@ Aquest arxiu ens permet classificar noves cançons que no tenen un gènere assoc
 El millor model basant-nos amb l'accuracy és el XGBClassifier però, un cop fem la Cross Validation, ens adonem que el Stacked és millor, ja que no comet overfitting.
 Hi ha pocs treballs sobre aquest dataset, però tots aconsegueixen entorn el 50% de accuracy.
 ## Idees per treballar en un futur
-En un futur seria interessant classificar més mostres d'entrenament dels gèneres amb menys mostres. Això permetria crear un model més general i robust.
+En un futur seria interessant classificar més mostres d'entrenament dels gèneres amb menys mostres. Això permetria crear un model més generalitzat i robust.
